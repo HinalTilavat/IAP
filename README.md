@@ -70,7 +70,7 @@ By following these steps, you'll be able to test in-app purchases using a StoreK
 For more information on StoreKit and in-app purchases, refer to the following resources:
 
 - [Apple Developer Documentation on StoreKit](https://developer.apple.com/documentation/storekit)
-- [Testing In-App Purchases with StoreKit Configuration](https://developer.apple.com/documentation/xcode/testing_in-app_purchases_with_storekit_configuration)
+- [Testing In-App Purchases with StoreKit Configuration](https://developer.apple.com/documentation/xcode/setting-up-storekit-testing-in-xcode)
 
 ## Credits
 
